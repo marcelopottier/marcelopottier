@@ -18,16 +18,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 December 2023 - To: 19 December 2023
+From: 01 December 2023 - To: 20 December 2023
 
-Total Time: 3 hrs 1 min
+Total Time: 3 hrs 52 mins
 
-TypeScript   2 hrs 17 mins   >>>>>>>>>>>>>>>>>>-------   73.96 %
-Dart         15 mins         >>-----------------------   08.30 %
-XML          8 mins          >------------------------   04.66 %
-Python       7 mins          >------------------------   03.94 %
-JavaScript   6 mins          >------------------------   03.61 %
-Other        4 mins          >------------------------   02.16 %
+TypeScript   2 hrs 17 mins   >>>>>>>>>>>>>>>----------   58.08 %
+Python       58 mins         >>>>>>-------------------   24.57 %
+Dart         15 mins         >>-----------------------   06.52 %
+XML          8 mins          >------------------------   03.66 %
+JavaScript   6 mins          >------------------------   02.84 %
+Other        4 mins          -------------------------   01.70 %
 ```
 
 <!--END_SECTION:waka-->
