@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 December 2023 - To: 11 January 2024
+From: 01 December 2023 - To: 12 January 2024
 
-Total Time: 15 hrs 45 mins
+Total Time: 21 hrs 25 mins
 
-TypeScript   12 hrs 41 mins  >>>>>>>>>>>>>>>>>>>>-----   78.52 %
-Python       1 hr            >>-----------------------   06.23 %
-Docker       43 mins         >------------------------   04.46 %
-PHP          31 mins         >------------------------   03.27 %
-Other        24 mins         >------------------------   02.55 %
+TypeScript   18 hrs 21 mins  >>>>>>>>>>>>>>>>>>>>>----   84.05 %
+Python       1 hr            >------------------------   04.65 %
+Docker       43 mins         >------------------------   03.30 %
+PHP          31 mins         >------------------------   02.42 %
+Other        24 mins         -------------------------   01.91 %
 ```
 
 <!--END_SECTION:waka-->
